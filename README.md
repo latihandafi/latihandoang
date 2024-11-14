@@ -1,2 +1,2 @@
 # latihandoang
-web ini saa buat untuk latihan sehari hari
+web ini buat latihan sehari hari
